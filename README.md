@@ -75,13 +75,13 @@ duration,src,protocol,result,status,bytes_in,http_method,url,dest_port,user,hier
 1,10.105.23.141,TCP,DENIED,401,1713,GET,http://xksduuczeanpqniv.com/lobster.jpg,,-,NONE,-,text/html
 ```
 
-You're welcome to implement this using an ASP.Net technology of your choice (Web Forms, MVC, Web API, etc.). Pick whichever you think is best.
-
 ## Assessment
 
 We'll carry out an automated test on your solution, followed by a manual code review. Please treat this as you would a normal programming task, and adhere to your normal coding standards.
 
+We'll be assessing the exercise based on correctness, approach and performance.
 
-Once you've completed the exercise, please submit the solution files as a .zip file, via your HR point of contact or recruitment agent.
+
+Once you've completed the exercise, please submit the solution files as a .zip file, via your HR point of contact or recruitment agent. Please don't submit any test data - just the code.
 
 Good luck!
