@@ -24,6 +24,7 @@ Example usage
 ```
 
 - `-i {searchPath}`
+
   The input file path, with support for wildcards to match multiple files.
 
 - `-r {regex}`
